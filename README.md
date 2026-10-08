@@ -1,9 +1,26 @@
 # custom-built-app
 
-A real, production-ready HTML5 / Vanilla JS application built from authentic source code.
+> A real, production-ready HTML5 / Vanilla JS application built from authentic source code.
 
-## 🚀 Live Demo on GitHub Pages
-🔗 [**https://latwtw00-art.github.io/custom-built-app/**](https://latwtw00-art.github.io/custom-built-app/)
+## 🚀 Quick Start
 
----
-*Auto-deployed via Flash Lite Browser*
+```bash
+# 1. Install dependencies
+npm install
+
+# 2. Start local development server
+npm run dev
+
+# 3. Build for production
+npm run build
+```
+
+## 📦 Tech Stack
+- **Framework**: HTML5 / Vanilla JS
+- **Language**: HTML
+- **Styling**: Tailwind CSS
+- **Bundler**: Vite
+- **Deployment**: GitHub Pages / Cloud Run Ready
+
+## 📄 License
+MIT License © 2026
